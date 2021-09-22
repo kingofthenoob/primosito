@@ -142,7 +142,7 @@ a {
 
 #showcase-3 {
     display: flex;
-    height: 300px;
+    /* height: 300px; */
     align-items: center;
     text-align: center;
 }
@@ -268,7 +268,7 @@ a {
 /* Contact */
 
 #message {
-    padding: 10px;
+    padding: 10px;   
 }
 
 #contact-form {
